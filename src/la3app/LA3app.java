@@ -21,4 +21,8 @@ public class LA3app {
 	public void addFeature() {
 		
 	}
+        
+        public void addFeatureA() {
+            
+        }
 }
