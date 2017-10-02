@@ -18,4 +18,7 @@ public class LA3app {
         // TODO code application logic here
     }
     
+	public void addFeature() {
+		
+	}
 }
